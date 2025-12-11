@@ -36,5 +36,8 @@
     "onlyBuiltDependencies": [
       "esbuild"
     ]
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.3.1"
   }
 }
